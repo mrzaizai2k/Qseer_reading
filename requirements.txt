@@ -1,0 +1,7 @@
+torch
+joblib
+networkx
+numpy
+torch_geometric
+tensorflow
+tensorcircuit[tensorflow]
