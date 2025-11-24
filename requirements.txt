@@ -5,3 +5,5 @@ numpy
 torch_geometric
 tensorflow
 tensorcircuit[tensorflow]
+qiskit
+cvxpy
